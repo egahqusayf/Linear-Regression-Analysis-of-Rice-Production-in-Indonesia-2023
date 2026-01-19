@@ -1,7 +1,4 @@
-﻿38 Provinsi,,,
-,"Luas Panen, Produksi, dan Produktivitas Padi Menurut Provinsi",,
-,Luas Panen (ha),Produktivitas (ku/ha),Produksi (ton)
-,2023,2023,2023
+﻿province,harvested_area_ha,yield_ku_per_ha,rice_production_tons
 ACEH,254287.38,55.22,1404234.82
 SUMATERA UTARA,406109.49,51.4,2087474.15
 SUMATERA BARAT,300564.77,49.32,1482468.79
