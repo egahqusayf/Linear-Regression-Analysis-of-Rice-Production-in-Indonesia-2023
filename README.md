@@ -21,7 +21,7 @@ Dataset is stored in the `/data` directory.
 
 ---
 
-## 🧠 Methodology
+## Methodology
 1. Data loading directly from GitHub into Google Colab
 2. Exploratory Data Analysis (EDA)
 3. Train-test split
@@ -31,7 +31,7 @@ Dataset is stored in the `/data` directory.
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric |     Value    |
 |--------|--------------|
@@ -42,6 +42,20 @@ Dataset is stored in the `/data` directory.
 The model explains approximately **99.5% of the variance** in rice production.
 
 ---
+
+## Visualization
+### Exploratory Data Analysis
+![EDA Scatter](assets/01_eda_scatter_harvested_area_vs_production.png)
+
+### Model Visualization
+![Regression Line](assets/02_model_scatter_regression_line.png)
+
+### Model Evaluation
+![Actual vs Predicted](assets/03_evaluation_actual_vs_predicted.png)
+
+### Residual Analysis
+![Residual Plot](assets/04_evaluation_residual_plot.png)
+
 
 ## Limitations
 - Single independent variable
